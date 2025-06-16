@@ -1,6 +1,13 @@
-# LUNCH TIMES
+# Lunch
 * 11-11:30 Central / 12-12:30 Eastern
 * 11:30-Noon Pacific / 2:30-3:00 Eastern
+
+# Me
+* dave@developintelligence.com
+  
+# Questions
+* Can you use the same SSH key in different places?
+  * Yes... https://serverfault.com/questions/1121959/can-i-use-the-same-ssh-key-in-different-places
 
 # Resources
 * https://pythontutor.com/
