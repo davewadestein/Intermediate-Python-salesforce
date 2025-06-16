@@ -1,0 +1,14 @@
+{
+    "name": "Alice",
+    "age": 30,
+    "is_active": true,
+    "skills": [
+        "Python",
+        "Data Science",
+        "Machine Learning"
+    ],
+    "address": {
+        "city": "Wonderland",
+        "zip": "12345"
+    }
+}
