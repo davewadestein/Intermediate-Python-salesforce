@@ -12,3 +12,4 @@
 # Resources
 * https://pythontutor.com/
 * Built-in functions https://docs.python.org/3/library/functions.html
+* AI!
