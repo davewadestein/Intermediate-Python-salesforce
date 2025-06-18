@@ -12,6 +12,8 @@
   * NO...[bit.ly/4e8CVWp](https://bit.ly/4e8CVWp)
 * see also:
   * https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys#using-multiple-repositories-on-one-server
+* can we have several different folders of virtual envs and have VS Code see them, or do they all need to be in the same folder?
+   * see https://code.visualstudio.com/docs/python/environments
 
 # Resources
 * https://pythontutor.com/
