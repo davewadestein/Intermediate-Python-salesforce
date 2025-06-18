@@ -1,5 +1,4 @@
 # Course Evaluation
-* https://sfdc-bt.plusplus.app/login/?next=/a/surveys/620/
 * https://sfdc-bt.plusplus.app/a/surveys/620/
 
 # Lunch
