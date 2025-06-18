@@ -9,7 +9,7 @@
 * Can you use the same SSH key in different places?
   * Yes... https://serverfault.com/questions/1121959/can-i-use-the-same-ssh-key-in-different-places
 * Can you user the same SSH key in two different accounts?
-  * NO...[bit.ly/4e8CVWp](https://bit.ly/4e8CVWp)
+  * NO...
 * see also:
   * https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys#using-multiple-repositories-on-one-server
 * can we have several different folders of virtual envs and have VS Code see them, or do they all need to be in the same folder?
