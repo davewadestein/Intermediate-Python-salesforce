@@ -9,7 +9,7 @@
 * Can you use the same SSH key in different places?
   * Yes... https://serverfault.com/questions/1121959/can-i-use-the-same-ssh-key-in-different-places
 * Can you user the same SSH key in two different accounts?
-  * test this...
+  * NO...[bit.ly/4e8CVWp](https://bit.ly/4e8CVWp)
 * see also:
   * https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys#using-multiple-repositories-on-one-server
 
