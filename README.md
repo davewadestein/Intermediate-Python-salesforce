@@ -1,3 +1,8 @@
+# what about notebooks 3 and 4?
+* if you rename them now, and __`git pull`__ you will get intact copies of my notebooks 3 and 4
+* the existing notebooks 3 and 4 have _conflict markers_ in them, indicating where your notebooks differ from mine
+  * if you open then in a text editor, look for lines that begin with <<<<, ====, >>>> and you can get rid of those...or use a mergetool which is git's way of allowing you to resolve conflicts
+
 # Course Evaluation
 * https://sfdc-bt.plusplus.app/a/surveys/620/
 
