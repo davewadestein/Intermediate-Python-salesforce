@@ -1,3 +1,6 @@
+# Course Evaluation
+* https://sfdc-bt.plusplus.app/login/?next=/a/surveys/620/
+
 # Lunch
 * 11-11:30 Central / 12-12:30 Eastern
 * 11:30-Noon Pacific / 2:30-3:00 Eastern
